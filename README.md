@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# HEADER
+...
+
+---
+
+## ABOUT ME
+...
+
+---
+
+## TECH SKILLS
+...
+
+---
+
+## PROJECTS
+...
+
+---
+
+## GITHUB STATISTICS
+...
+
+---
+
+## CONTACT
+...
