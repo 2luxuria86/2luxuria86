@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 ---
 
 ## ABOUT ME
-...
+Hi, I'm Aiden, currently a fourth year Computer Science student at UC Davis with a minor in Statistics. I'm passionate about using data and technology to solve real problems whether it be building machine learning models, designing interfaces, or making complex systems more accessible.
 
+Growing up as a first generation student in the SROs of San Francisco, I admired and was amazed by the evolving technology that surrounded me. However, I was also aware about the divide between the communities that had access and those that don’t. That experience shaped how I think about the work I want to do such as building tools that are not just technically sound, but genuinely useful and accessible to people who need them most.
+
+I'm currently exploring opportunities in software engineering, data science, and machine learning, with a particular interest in roles that sit at the intersection of technology and human impact.
 ---
 
 ## TECH SKILLS
