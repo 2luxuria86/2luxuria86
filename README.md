@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **2luxuria86/2luxuria86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# HEADER
-...
+<div align="center">
 
----
+# Aiden Xie
+
+**CS & Statistics @ UC Davis**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidenxie)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aixie75@gmail.com)
+
+</div>
 
 ## ABOUT ME
 Hi, I'm Aiden, currently a fourth-year Computer Science student at UC Davis with a minor in Statistics. I'm passionate about using data and technology to solve real problems whether it be building machine learning models, designing interfaces, or making complex systems more accessible.
@@ -53,17 +57,3 @@ I'm currently exploring opportunities in software engineering, data science, and
 
 ## PROJECTS
 ...
-
----
-
-## GITHUB STATISTICS
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2luxuria86&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2luxuria86&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
-
----
-
-## CONTACT
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidenxie)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aixie75@gmail.com)
