@@ -56,4 +56,15 @@ I'm currently exploring opportunities in software engineering, data science, and
 ---
 
 ## PROJECTS
+
+<div align="center">
+
+**Portfolio Website**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[Live](https://2luxuria86.github.io) · [Code](https://github.com/2luxuria86/2luxuria86.github.io)
+
+</div>
 ...
